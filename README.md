@@ -56,7 +56,7 @@ A beautiful, modern full-stack web application that allows you to manage notes, 
 
    Create `frontend/.env.local` (optional):
    ```env
-   NEXT_PUBLIC_API_URL=http://localhost:3001
+   NEXT_PUBLIC_API_URL=http://localhost:5000
    ```
 
 4. **Start the development servers**
@@ -77,7 +77,7 @@ A beautiful, modern full-stack web application that allows you to manage notes, 
 
 5. **Open your browser**
    - Frontend: http://localhost:3000
-   - Backend API: http://localhost:3001
+   - Backend API: http://localhost:5000
 
 ## 🗣️ Voice Commands
 
@@ -160,14 +160,10 @@ The Web Speech API is supported in:
 - ✅ Safari (limited support)
 - ❌ Firefox (not supported)
 
-## 📝 License
 
-MIT License - feel free to use this project for learning and personal projects!
 
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📧 Support
 
-For issues and questions, please open an issue on GitHub.
